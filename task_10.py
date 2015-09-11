@@ -3,3 +3,6 @@
 """Task 10"""
 
 MOVIE = 'dr. strangelove or: how i learned to stop worrying and love the bomb'
+MOVIE = MOVIE.title( )
+ENTITLED = MOVIE
+print ENTITLED
