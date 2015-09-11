@@ -3,5 +3,6 @@
 """Provides variables for string and integer conversion."""
 
 
-NOT_THE_QUESTION = 'The answer to life, the universe, and everything? It\'s '
+NOT_THE_QUESTION = "The answer to life, the universe, and everything? It\'s "
 ANSWER = 42
+print NOT_THE_QUESTION + ANSWER 
